@@ -1,0 +1,6 @@
+{
+  "name": "Mnemosyne AI",
+  "description": "Analyse cognitive et comparaison entre mémoire nocturne et réalité capturée à chaud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
